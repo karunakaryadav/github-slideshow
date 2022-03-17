@@ -10,3 +10,7 @@ enter the result
 press enter
 result
 ----
+layout: cricket
+title:"IPL"
+----
+press OK
