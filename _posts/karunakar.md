@@ -7,3 +7,4 @@ Use the left arrow to go back!
 check the result
 print the result
 press enter.
+close
